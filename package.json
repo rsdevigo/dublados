@@ -1,5 +1,5 @@
 {
-  "name": "DUBLADO",
+  "name": "Dublados",
   "main": "./lib/dublado",
   "version": "0.0.1",
   "private": true,
@@ -10,5 +10,7 @@
   "engines": {
     "popcorntime": "*"
   },
-  "dependencies": {}
+  "dependencies": {
+    "kickass-torrent": "*"
+  }
 }
